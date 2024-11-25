@@ -1,14 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,,
-creator,Author,TRUE,
+creator,Author,true,
 date,Date of Publication,,
 description,Description,,
-performance,Intended Mode of Reception,TRUE,
+performance,Intended Mode of Reception,true,
 first_performed,First Performed,,
-theatre,Performed at,TRUE,
-company,Performed by,TRUE,
-actress,Actress(es),TRUE,
-preface,Notable mentions in prefatory material,TRUE,
-political_agenda,Topical Relevance,TRUE,
-relation,The Diary of Samuel Pepys,,TRUE
+theatre,Performed at,true,
+company,Performed by,true,
+actress,Actress(es),true,
+preface,Notable mentions in prefatory material,true,
+political_agenda,Topical Relevance,true,
+relation,The Diary of Samuel Pepys,,true
 citation,Citation,,
