@@ -1,7 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
+SUbjects,,
+Subjects,/subjects.html,Subjects
+Authors,/subjects.html,Subjects
+Actresses,/subjects.html,Subjects
+Theatres,/subjects.html,Subjects
+Play Companies/subjects.html,Subjects
 Visualizations,/visualizations.html,
 Map,https://public.flourish.studio/visualisation/20463890/,
 Timeline,/timeline.html,
