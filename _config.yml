@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Women, Drama, and Consent
+title: Gender and Genre on the Restoration Stage
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Women's Political Writing 1600-1800
+tagline: Women's Theatrical and Political Writing, 1660-1700
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection contains digitized PDFs of texts and plays (produced mainly between 1660 to 1700, but with several outliers) that represent issues within an emerging conversation about women's political identity in the 17th Century. All the texts in this collection are in the public domain and you are welcome to download, share and teach with these items."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Shataparni Bhattacharya
 
