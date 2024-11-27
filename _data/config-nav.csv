@@ -2,7 +2,6 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Subjects,,
-Subjects,/subjects.html,Subjects
 Authors,/subjects.html,Subjects
 Actresses,/subjects.html,Subjects
 Theatres,/subjects.html,Subjects
