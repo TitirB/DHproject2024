@@ -6,7 +6,7 @@ permalink: /bibliography.html
 
 # Bibliography
 ---
-
+---
 ## Primary Texts
 ---
 ### Dramatic Texts
@@ -72,7 +72,6 @@ permalink: /bibliography.html
 
   Philips, Katherine. _Poems By the most deservedly Admired Mrs. Katherine Philips The Matchless Orinda_. London: Printed by J. M. for H. Herringman, 1667.
 
----
 ---
 ## Secondary Texts
 ---
