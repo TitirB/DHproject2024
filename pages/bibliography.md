@@ -7,7 +7,6 @@ permalink: /bibliography.html
 # Bibliography
 
 ## Primary Texts
-
 ### Dramatic Texts
 
   Anon. _The Female Wits: or, The Triumverate of Poets at Rehearsal_. London: William Turner, William Davies, Bernard Lintott and Thomas Brown, 1704.
