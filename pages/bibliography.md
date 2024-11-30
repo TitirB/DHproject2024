@@ -5,7 +5,6 @@ permalink: /bibliography.html
 ---
 
 # Bibliography
-
 ## Primary Texts
 ### Dramatic Texts
 
@@ -69,7 +68,6 @@ permalink: /bibliography.html
   Pepys, Samuel. _The Diary of Samuel Pepys M.A. F.R.S_. Edited by Henry B. Wheatley F.S.A. London: George Bell & Sons, 1893.
 
   Philips, Katherine. _Poems By the most deservedly Admired Mrs. Katherine Philips The Matchless Orinda_. London: Printed by J. M. for H. Herringman, 1667.
-  
 ---
 ## Secondary Texts
 
