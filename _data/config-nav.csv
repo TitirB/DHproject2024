@@ -1,16 +1,21 @@
 display_name,stub,dropdown_parent
 Home,/,
+About,,
+About the Collection,/about.html,About
+Introduction,/about.html,About
+Historical Background,/about.html,About
+My Intervention,/about.html,About
+About the Creator,/about.html,About
 Browse,/browse.html,
 Subjects,,
 Authors,/subjects.html,Subjects
 Actresses,/subjects.html,Subjects
 Theatres,/subjects.html,Subjects
 Play Companies,/subjects.html,Subjects
+Mode of Reception,/subjects.html,Subjects
+Topical Relevance,/subjects.html,Subjects
 Visualizations,/visualizations.html,
 Map,https://public.flourish.studio/visualisation/20463890/,
 Timeline,/timeline.html,
 Data,/data.html,
-About,,
-About the Collection,/about.html,About
-About the Creator,/about.html,About
 Bibliography,/bibliography.html,
