@@ -5,7 +5,7 @@ permalink: /bibliography.html
 ---
 
 # Bibliography
----
+
 ## Primary Texts
 ---
 ### Dramatic Texts
