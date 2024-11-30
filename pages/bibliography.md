@@ -64,7 +64,7 @@ permalink: /bibliography.html
 
   Knox, John. _The First Blast of the Trumpet Against the Monstrous Regiment of Women_. 1558.
 
-  Locke, John. _Two Treatises of Government_. E-book, InteLex Corp, 2000.
+  Locke, John. _Two Treatises of Government_. 1689.
 
   Passe, Crispijn van de, the Younger. _Spiegel der alderschoonste Cortisanen deses tijds. Verbeeldende desselfs verandering van Klederen, Vercierselen, en andere Ornamenten, onder haar gebruikelijk_. N.pl. n.pr. 1701.
 
