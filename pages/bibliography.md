@@ -7,7 +7,7 @@ permalink: /bibliography.html
 # Bibliography
 
 ## Primary Texts
----
+
 ### Dramatic Texts
 
   Anon. _The Female Wits: or, The Triumverate of Poets at Rehearsal_. London: William Turner, William Davies, Bernard Lintott and Thomas Brown, 1704.
@@ -70,9 +70,10 @@ permalink: /bibliography.html
   Pepys, Samuel. _The Diary of Samuel Pepys M.A. F.R.S_. Edited by Henry B. Wheatley F.S.A. London: George Bell & Sons, 1893.
 
   Philips, Katherine. _Poems By the most deservedly Admired Mrs. Katherine Philips The Matchless Orinda_. London: Printed by J. M. for H. Herringman, 1667.
-
-## Secondary Texts
+  
 ---
+## Secondary Texts
+
   Anderson, Misty. _Female Playwrights and Eighteenth-Century Comedy: Negotiating Marriage on the London Stage_. Palgrave-St. Martin’s Global, 2002.
   
   Anderson, Penelope. _Friendship's Shadows: Women's Friendship and the Politics of Betrayal in England, 1640-1705_. Edinburgh University Press, 2012.
