@@ -185,3 +185,6 @@ permalink: /bibliography.html
   Todd, Janet. _The Secret Life of Aphra Behn_. London: André Deutsch, 1996.
 
   Wilson, J. H. _All the King’s Ladies: Actresses of the Restoration_. Chicago: University of Chicago Press, 1958.
+
+  ---
+  
