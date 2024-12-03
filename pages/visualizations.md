@@ -6,7 +6,7 @@ permalink: /visualizations.html
 
 # Visualizations
 
-The following graphs represents the number of performances at the Drury Lane Theatre, the Lincoln’s Inn Fields Theatre and the Dorset Garden Theatre across each year from 1661 to 1700.
+The following graph represents the number of performances at the Drury Lane Theatre, the Lincoln’s Inn Fields Theatre, and the Dorset Garden Theatre across each year from 1661 to 1700.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/20028898"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20028898/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
