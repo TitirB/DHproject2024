@@ -14,7 +14,6 @@ credits: true
 
 {% include feature/timelinejs.html %}
 # About the Collection
----
 ## Introduction
 
 In 1989, Tracy C. Davis set the pace for revisionist strategies of feminist scholarship and called for new approaches to the practices of theatre historiography in her essay "Questions for a Feminist Methodology in Theatre History". Many feminist historiographers have risen to this challenge over the years to contest the old narratives around the early female theatre professionals of Restoration England, that are underpinned by certain binaries—of art and entertainment, male and female, playwright and actress—leading to the erasure of much of these women’s histories. They argue that what remained has adhered to the hegemonic attitudes that seek to distance the female playwright from other women and masculinize her writing to prove her genius, and that label the work of playwrights as literature while the contributions of the actresses are relegated to the realm of bawdry, entertainment or historical gossip. In my scholarship, I explore how these playwrights related themselves to the legacy of their female literary forerunners, as well as how male backlash to women’s playwriting influenced their work, lives, and afterlives, including the emergence of the closet playwrights (as an antithesis to the commercial). 
@@ -35,9 +34,9 @@ This is an important topic because many of the considerations that were being gr
 
 ---
 
-# Bibliography
-## Primary Texts
-### Dramatic Texts
+## Bibliography
+### Primary Texts
+**### Dramatic Texts**
 
   Anon. _The Female Wits: or, The Triumverate of Poets at Rehearsal_. London: William Turner, William Davies, Bernard Lintott and Thomas Brown, 1704.
 
@@ -75,8 +74,7 @@ This is an important topic because many of the considerations that were being gr
 
   ---. _The Fatal Friendship: A Tragedy_. London: F. Saunders, 1698.
 
-  ---
-### Non-Dramatic Texts
+**### Non-Dramatic Texts**
 
   Anon. _Women Triumphant: or, the Excellency of the Female Sex; Asserted in Opposition to the Male_. London: Charles Stokes, 1721.
   
@@ -107,7 +105,7 @@ This is an important topic because many of the considerations that were being gr
   Playbill for _Troilus and Cressida; or, Truth Found too Late_. 1697, Lincoln’s Inn Fields Theatre, London. Folger Shakespeare Library, Washington D.C.
   
 ---
-## Secondary Texts
+### Secondary Texts
 
   Anderson, Misty. _Female Playwrights and Eighteenth-Century Comedy: Negotiating Marriage on the London Stage_. Palgrave-St. Martin’s Global, 2002.
   
@@ -227,7 +225,6 @@ This is an important topic because many of the considerations that were being gr
 
   ---
 
----
 # About the Creator
 
 Shataparni Bhattacharya (Titir) researches representations of feminine monstrosity in Restoration and Eighteenth Century drama. Her dissertation centers the early commercial actresses to read monstrosity in play-texts and on stage—mediated by the vectors of gender, sexuality, and class—as either revealing the identities, behaviors, bodies, and positionalities that needed disciplining to maintain the period’s fictions of stability, or as offering agential articulations of reform, alternate possibilities, and boundary crossing, in response to social violence.
