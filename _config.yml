@@ -6,14 +6,15 @@
 
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
-#
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://titirb.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /DHproject2024
 # location of code, the full url to your github repository
+##########
+
+url: https://titirb.github.io
+baseurl: /DHproject2024
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 ##########
