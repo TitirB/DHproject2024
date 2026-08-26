@@ -54,5 +54,6 @@ My visualization, unfortunately, does not include data about particular plays be
 These three factors would allow the audience to make connections between the relationships that were developing between female playwrights and the actresses in the three major theatre houses of the Restoration, and also how their creative production was impacted by anti-theatrical sentiments.
 
 ## Map
+Map created via Flourish.
 <div class="flourish-embed flourish-map" data-src="visualisation/20463890"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20463890/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
