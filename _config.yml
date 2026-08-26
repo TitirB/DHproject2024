@@ -25,7 +25,7 @@ title: Gender and Genre on the Restoration Stage
 tagline: Women's Theatrical and Political Writing, 1660-1700
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains digitized PDFs of texts and plays (produced mainly between 1660 to 1700, but with several outliers) that represent issues within an emerging conversation about women's political identity in the 17th Century. All the primary texts in this collection are in the public domain and you are welcome to download, share, and teach with these items. The teaching materials included have been developed by the creator of this collection; please credit this resource if you adapt or use these materials in your own course design."
+description: "This collection contains digitized PDFs of texts and plays (produced mainly between 1660 to 1700, but with several outliers) that represent issues within an emerging conversation abo[...]
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Shataparni Bhattacharya
 
@@ -64,7 +64,6 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 sass:
   style: compressed
 plugins:
-  - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-paginate
