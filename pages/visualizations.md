@@ -13,7 +13,7 @@ permalink: /visualizations.html
 To demonstrate the value of digital methods in the study of theatrical history, I have included a few easily accessible and legible visualizations that showcase the networks and collaborations between the early theatre-women. My objectives are:
 
 1. To showcase the frequency of collaboration between the playwrights and the actresses to demonstrate how the roles in the play texts were performed by actresses;
-2.To showcase the number of times various actresses acted in the same plays together to reveal the possibilities of professional camaraderie and fictions of rivalry or animosity in the distribution of roles written for them; and,
+2. To showcase the number of times various actresses acted in the same plays together to reveal the possibilities of professional camaraderie and fictions of rivalry or animosity in the distribution of roles written for them; and,
 3. To track the evolution of roles and their generic markers over time.
 
 These visualizations were created for the final project in INFO-I590: Data Visualization, Spring 2025, under the guidance of Dr. Filipi Nascimento Silva. They were created in collaboration with my teammates, Connor Cornelison (Data Science MS Student and Research fellow at Indiana University) and JD Kozicki (Data Science MS Student and Research fellow at Indiana University), who did much of the coding. For this project, the bulk of the work was done on the transformation of the physical data tables found in Elizabeth Howe's 1992 book _The First English Actresses: Women and Drama 1660-1700_ (Howe 1992). These fourteen pages held important information regarding fourteen critical actresses for my analysis.
