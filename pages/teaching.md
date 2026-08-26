@@ -25,16 +25,22 @@ This collection carries much instructional potential in the literature and compo
 
 This course begins at the English Restoration of monarchy in 1660, which saw the reopening of playhouses after eighteen years and the appearance of the first English actresses on the public stage. A fundamental assumption of the course, then, is that the modern-day "audacious woman" emerged in England, 1660, as the first actress. Known for her beauty and apparent immorality, she became an object of admiration, contempt, and salacious gossip. Students read and analyzed several primary texts of the period, including (among others) metatheatrical material such as excerpts from the diary of Samuel Pepys, prefatory materials to play-texts that laud or condemn actresses, and antitheatrical pamphlets. At the same time, students were asked to consider how the digital echoes of the early actress's life (in the form of representations, interpretations, and distortions born out of modern engagement with theatrical history and scholarship) shape the stories we tell about gender and femininity today. To learn about digital embodiment, students explored archives and museums on campus, watched films, and engaged with internet "content creation." As a composition and digital literacy course, students were urged to borrow the rhetorical power of the audacious woman for their own purposes, creating digital deliverables, such as websites, blogs, videos, and podcasts, using Adobe's creative and professional tools. 
 
+{% include feature/pdf.html objectid="w171syllabus" %}
+
+{% include feature/pdf.html objectid="w171schedule" %}
+
 ## Teaching with this Collection
 
-Included in the collection are the course syllabus and the schedule of classes, as well as a few examples of assignments. To demonstrate the variety of possible assignments that can be designed using these materials, I have included one "low-stakes" preparatory assignment that students completed in class, two major assignments (a poster with expository essay, and a podcast) along with one "minor" assignment (a close-reading webpage) that was scaffolded into the preparatory work for the major assignments. All of these teaching materials may be found under the eponymous subject heading in the Subjects tab. 
+Included in the collection are the [course syllabus](https://titirb.github.io/DHproject2024/item.html?id=w171syllabus) and the [schedule of classes](https://titirb.github.io/DHproject2024/item.html?id=w171schedule), as well as a few examples of assignments. To demonstrate the variety of possible assignments that can be designed using these materials, I have included one "low-stakes" [preparatory assignment](https://titirb.github.io/DHproject2024/item.html?id=w171prepassignment) that students completed in class, two major assignments ([a poster with expository essay](https://titirb.github.io/DHproject2024/item.html?id=w171majorassignment1), and a [podcast](https://titirb.github.io/DHproject2024/item.html?id=w171majorassignment2)) along with one "minor" assignment (a [close-reading webpage](https://titirb.github.io/DHproject2024/item.html?id=w171minorassignment2)) that was scaffolded into the preparatory work for the major assignments. All of these teaching materials may be found under the eponymous subject heading in the Subjects tab. 
 
 Additionally, I have added navigable browse buttons in the item info of objects used for assignments, which correspond to the assignment that use those objects. See, for example, the item page for [The Feign'd Curtezans](https://titirb.github.io/DHproject2024/item.html?id=aphrabehn1679), which includes the links to Minor Assignment 2 and Major Assignment 2 in the field "Teaching with this object". 
 
 ## Sharing and Attribution
 
 Please credit this resource if you adapt or use these materials in your own course design. You can cite this work as:
+
 Bhattacharya, Shataparni. "Teaching." _Gender and Genre on the Restoration Stage_, [https://titirb.github.io/DHproject2024/teaching.html](https://titirb.github.io/DHproject2024/teaching.html). 2026.
+
 Sharing ideas makes our teaching community stronger, and your attribution helps support the ongoing creation of these free materials.
 
 
