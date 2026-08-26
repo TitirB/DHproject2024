@@ -3,7 +3,7 @@ title: Teaching
 layout: about
 permalink: /teaching.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -39,6 +39,5 @@ Please credit this resource if you adapt or use these materials in your own cour
 Bhattacharya, Shataparni. "Teaching." _Gender and Genre on the Restoration Stage_, [https://titirb.github.io/DHproject2024/teaching.html](https://titirb.github.io/DHproject2024/teaching.html). 2026.
 
 Sharing ideas makes our teaching community stronger, and your attribution helps support the ongoing creation of these free materials.
-
 
 {% include feature/image.html objectid="blackboard" %}
