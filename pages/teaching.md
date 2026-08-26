@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="blackboard" %}
 
-{% include feature/nav-menu.html sections="Course Rationale;Teaching with this Collection" %}
+{% include feature/nav-menu.html sections="Course Rationale;Teaching with this Collection;Sharing and Attribution" %}
 
 # Teaching
 
@@ -34,9 +34,8 @@ Additionally, I have added navigable browse buttons in the item info of objects 
 ## Sharing and Attribution
 
 Please credit this resource if you adapt or use these materials in your own course design. You can cite this work as:
-
 Bhattacharya, Shataparni. "Teaching." _Gender and Genre on the Restoration Stage_, [https://titirb.github.io/DHproject2024/teaching.html](https://titirb.github.io/DHproject2024/teaching.html). 2026.
-
 Sharing ideas makes our teaching community stronger, and your attribution helps support the ongoing creation of these free materials.
+
 
 {% include feature/image.html objectid="blackboard" %}
