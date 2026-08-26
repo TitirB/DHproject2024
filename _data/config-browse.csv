@@ -1,6 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Author,true,,
-performance,Mode of Reception,true,,Mode of Reception
-roletype,Type of Role (Howe 1992),true,,Roles
+performance,Item Type,true,,Mode of Reception
 actress,Actress(es),true,,
+roletype,Type of Role (Howe 1992),true,,Roles
+theatre,,,true,
+company,,,true,
