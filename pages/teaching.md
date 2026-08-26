@@ -16,7 +16,7 @@ credits: true
 
 ---
 
-This collection has much instructional potential in the literature and composition classroom. Here, I outline the progression of course content, assignments, and learning goals in a composition and digital literacy course titled "Audacious Women". I developed and taught this course in the 2025-26 academic year, having recognized the potential of the First-Year Writing classroom as a space that can accommodate: 
+This collection carries much instructional potential in the literature and composition classroom. Here, I outline the progression of course content, assignments, and learning goals in a composition and digital literacy course titled "Audacious Women". I developed and taught this course in the 2025-26 academic year, having recognized the potential of the First-Year Writing classroom as a space that can accommodate: 
 
 1. the study of literature and literary history; and,
 2. the development of digital composition and literacy skills in a hands-on workshop format.
@@ -30,3 +30,13 @@ This course begins at the English Restoration of monarchy in 1660, which saw the
 Included in the collection are the course syllabus and the schedule of classes, as well as a few examples of assignments. To demonstrate the variety of possible assignments that can be designed using these materials, I have included one "low-stakes" preparatory assignment that students completed in class, two major assignments (a poster with expository essay, and a podcast) along with one "minor" assignment (a close-reading webpage) that was scaffolded into the preparatory work for the major assignments. All of these teaching materials may be found under the eponymous subject heading in the Subjects tab. 
 
 Additionally, I have added navigable browse buttons in the item info of objects used for assignments, which correspond to the assignment that use those objects. See, for example, the item page for [The Feign'd Curtezans](https://titirb.github.io/DHproject2024/item.html?id=aphrabehn1679), which includes the links to Minor Assignment 2 and Major Assignment 2 in the field "Teaching with this object". 
+
+## Sharing and Attribution
+
+Please credit this resource if you adapt or use these materials in your own course design. You can cite this work as:
+
+Bhattacharya, Shataparni. "Teaching." _Gender and Genre on the Restoration Stage_, [https://titirb.github.io/DHproject2024/teaching.html](https://titirb.github.io/DHproject2024/teaching.html). 2026.
+
+Sharing ideas makes our teaching community stronger, and your attribution helps support the ongoing creation of these free materials.
+
+{% include feature/image.html objectid="blackboard" %}
