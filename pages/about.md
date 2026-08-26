@@ -36,7 +36,7 @@ This is an important topic because many of the considerations that were being gr
 
 ## Bibliography
 ### Primary Texts
-**### Dramatic Texts**
+**Dramatic Texts**
 
   Anon. _The Female Wits: or, The Triumverate of Poets at Rehearsal_. London: William Turner, William Davies, Bernard Lintott and Thomas Brown, 1704.
 
@@ -74,7 +74,7 @@ This is an important topic because many of the considerations that were being gr
 
   ---. _The Fatal Friendship: A Tragedy_. London: F. Saunders, 1698.
 
-**### Non-Dramatic Texts**
+**Non-Dramatic Texts**
 
   Anon. _Women Triumphant: or, the Excellency of the Female Sex; Asserted in Opposition to the Male_. London: Charles Stokes, 1721.
   
