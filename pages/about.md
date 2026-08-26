@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="drurylane" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Introduction;Historical Background;My Intervention;About the Creator" %}
+{% include feature/nav-menu.html sections="About the Collection;Introduction;Historical Background;My Intervention;Bibliography;About the Creator" %}
 
 {% include feature/timelinejs.html %}
 # About the Collection
